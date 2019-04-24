@@ -1,0 +1,24 @@
+{
+  "name": "server-on-watson-assistant",
+  "version": "1.0.0",
+  "description": "Extend chatbot capabilities on Node.js server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorshinya/extend-chatbot-capabilities.git"
+  },
+  "author": "Victor Kazuyuki Shinya <vshinya@br.ibm.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorshinya/extend-chatbot-capabilities/issues"
+  },
+  "homepage": "https://github.com/victorshinya/extend-chatbot-capabilities#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "watson-developer-cloud": "^4.0.1"
+  }
+}

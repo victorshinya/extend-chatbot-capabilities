@@ -1,0 +1,11 @@
+{
+  "name": "address-on-action",
+  "version": "1.0.0",
+  "description": "Get the address from cep in your chatbot using IBM Cloud Functions",
+  "main": "address.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Kazuyuki Shinya <vshinya@br.ibm.com>",
+  "license": "MIT"
+}
